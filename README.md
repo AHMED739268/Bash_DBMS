@@ -5,7 +5,7 @@ A lightweight and efficient **Database Management System** built entirely using 
 ## 📹 **Project Demo Video**  
 Check out the project in action with this demo video:  
 
-[Watch the Demo Video](https://github.com/AHMED739268/Bash_DBMS/blob/main/Bash_DBMS_Video)
+[Watch the Demo Video]([https://github.com/AHMED739268/Bash_DBMS/blob/main/Bash_DBMS_Video](https://github.com/AHMED739268/Bash_DBMS/blob/main/Bash_DBMS_Video.mp4))
 
 ---
 
